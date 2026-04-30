@@ -8,6 +8,9 @@ secret="_A1b2C3d~E4f5G6h7I8j9K0l.M1n2O35p"
 secret="_A1b2C3d~E4f5G6h7I8j9K0l.M1n2O34p"
 secret="_A1b2C3d~E4f5G6h7I8j9K0l.M1n2O3p3"
 
+secret="_A1b2C3d~E4f5G6h7I8j9K0l.M1n2O35p"
+secret="_A1b2C3d~E4f5G6h7I8j9K0l.M1n2O34p"
+secret="_A1b2C3d~E4f5G6h7I8j9K0l.M1n2O3p3"
 secret="_A1b2C3d~E4f5G6h7I8j9K0l.M1n2O3p2"
 
 # Print the current time
